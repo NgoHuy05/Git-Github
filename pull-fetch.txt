@@ -1,0 +1,8 @@
+git pull = git fetch + git merge thuong dung khi lam project 1 minh
+vi khi git pull se merge luon nhung thay doi tren repository ve working area 
+neu lam viec nhom ma van su dung pull thuong de bi conflict
+
+vi vay git fetch la fetch ve chi lay nhung thong tin moi ve nhung ko merge luon 
+ma minh se git log xem nhung thay doi va tu merge thu cong tranh dc conflict ko can thiet
+tranh phai fix conflict nhieu
+vi vay phu hop voi lam viec nhom 
