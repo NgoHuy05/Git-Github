@@ -1,0 +1,8 @@
+git add dung de chuyen file tu working area sang staging area
+git add .
+git add ten-file
+
+git commit chuyen file tu staging area sang local repository
+git commit -m "content"
+
+
