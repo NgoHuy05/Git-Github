@@ -1,0 +1,6 @@
+git log dung de xem lich su commit cua project
+
+git log
+git log --oneline
+git log -number 
+git log --author="nameAuthor"
