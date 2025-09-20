@@ -8,9 +8,17 @@ git reset abc -> quay ve c1 xoa commit c2
 git reset commit-hash
 git reset HEAD~number
 
-git reset --mixed bo ra khoi staging giu nguyen woking directory
-git reset --sort giu staging
-git reset --hard xoa staging
+git reset --mixed bo ra khoi staging giu nguyen code
+co the hieu don gian nhu sau khi quay lai c1 phai git add lai roi commit c2 thi moi lai xuat hien commit la c2 
+(vi xoa staging area quay ve lai working directory)
+git reset --soft giu staging giu nguyen code
+con soft thi chi can commit c2 la xuat hien luon commit c2 ko can git add (vi van o trong staging area)
+git reset --hard xoa staging xoa ca code
+
+vd 1 dong xong commit c1 xong viet them 1 dong commit c2
+thi voi mixed, soft van con 2 dong
+nhung voi hard thi chi con 1 dong
 
 
 c2
+c3
