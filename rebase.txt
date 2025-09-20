@@ -7,3 +7,4 @@ git switch nhanh_dau
 git rebase nhanh_dich
 
 a1
+a2
