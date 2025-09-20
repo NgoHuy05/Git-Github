@@ -1,0 +1,13 @@
+git reset dung de quay lai 1 commit nao do
+
+commit c1 commit-hash: abc
+commit c2 commit-hash: def
+
+git reset abc -> quay ve c1 xoa commit c2
+
+git reset commit-hash
+git reset HEAD~number
+
+git reset --mixed bo staging
+git reset --sort giu staging
+git reset --hard xoa staging
