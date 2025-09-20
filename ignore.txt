@@ -1,0 +1,10 @@
+file .gitignore trong git thuoong dung de loai bo cac file ko can thiet day len github
+
+loai bo tat ca cac file co duoi
+*.txt
+*.env
+...
+
+loai bo cac folder 
+nameFoleder/
+node_modules/
