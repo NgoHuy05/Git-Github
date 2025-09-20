@@ -1,0 +1,9 @@
+gan giong voi git reset la quay ve commit 
+nhung voi git revert la quay ve commit nhung ko pha vo lich su commit
+an toan hon khi lam viec nhom
+
+git revert commit-hash
+git revert HEAD~number
+
+
+c1
