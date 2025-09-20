@@ -1,0 +1,9 @@
+working area
+
+khi git add thi ->
+
+staging area
+
+khi git commit thi ->
+
+local repository
