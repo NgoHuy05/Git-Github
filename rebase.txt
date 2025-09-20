@@ -6,3 +6,4 @@ dua cac commit cua nhanh_dau thanh nhung commit cuoi cua nhanh_dich
 git switch nhanh_dau
 git rebase nhanh_dich
 
+a1
