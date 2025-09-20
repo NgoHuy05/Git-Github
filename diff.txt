@@ -8,3 +8,6 @@ git diff
 git diff file-name
 
 git diff --staged 
+
+change test diff
+diff --staged
