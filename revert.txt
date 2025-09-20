@@ -8,4 +8,3 @@ git revert HEAD~number
 
 c1
 c4
-c5
