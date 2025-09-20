@@ -1,0 +1,10 @@
+git diff dung de xem su thay doi giua cac phien ban cua file
+    working directory vs last commit
+    staged changes vs last commit
+    branch vs branch
+    commit vs commit
+
+git diff
+git diff file-name
+
+git diff --staged 
