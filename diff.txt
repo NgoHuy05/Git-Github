@@ -1,13 +1,12 @@
-git diff dung de xem su thay doi giua cac phien ban cua file
+git diff dung de xem su thay doi giua cac phien ban cua file 
     working directory vs last commit
     staged changes vs last commit
     branch vs branch
     commit vs commit
 
 git diff
-git diff file-name
+git diff file-name so sanh giua file trong working voi repo
+git diff --staged: so sanh giua file trong staging area vs repo
 
-git diff --staged 
 
-change test diff
-diff --staged
+change test diff 
