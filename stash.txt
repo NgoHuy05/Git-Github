@@ -1,0 +1,9 @@
+git stash su dung khi ban muon thay doi nhanh khac de fix bug gap 
+nhung lai khong muon commit hoac la mat nhung thay doi code hien tai
+
+git stash
+git stash apply
+
+dang o nhanh dev muon sang ben main fix gap thi su dung git stash ben nhanh dev
+sau do switch sang main fix commit cac kieu con da dieu
+xong quay lai dev git stash apply de lay lai nhung cai dang dang do chua commit
