@@ -1,0 +1,11 @@
+git push de day code len repository
+
+git push -u origin main
+git push -u origin <branchName>
+
+-u: --set-upstream thiet lap tracking theo doi project
+origin ten remote
+
+lan dau phai thiet lapp tracking nen su dung -u origin branchName
+
+tu lan sau chi can git push khi dang dung o branch doi
