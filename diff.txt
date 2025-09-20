@@ -10,3 +10,4 @@ git diff --staged: so sanh giua file trong staging area vs repo
 
 
 change test diff 
+test diff --staged
