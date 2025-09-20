@@ -7,3 +7,5 @@ git stash apply
 dang o nhanh dev muon sang ben main fix gap thi su dung git stash ben nhanh dev
 sau do switch sang main fix commit cac kieu con da dieu
 xong quay lai dev git stash apply de lay lai nhung cai dang dang do chua commit
+
+a1
