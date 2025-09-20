@@ -1,0 +1,4 @@
+git restore file-name khoi phuc file o working directory ve lai commit gan nhat
+
+neu file dang o staging area thi can git restore --staged file-name de dua ve working directory 
+xong moi git restore file-name khoi phuc ve commit gan
