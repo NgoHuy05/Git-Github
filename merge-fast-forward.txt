@@ -1,0 +1,7 @@
+merge-fast-forward 
+
+khi muon merge 1 nhanh khac ta chuyen den nhanh roi su dung lenh git merge name-branch-can-merge 
+-> merge vao nhanh vua chuyen
+dieu kien de su dung merge-fast-forward la khi tao nhanh khac de merge thi nhanh cu ko dc commit them j 
+khi do merge nhanh vua tao moi se co lich su commit sach se
+head se tro den commit cuoi danh sach
