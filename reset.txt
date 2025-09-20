@@ -8,6 +8,9 @@ git reset abc -> quay ve c1 xoa commit c2
 git reset commit-hash
 git reset HEAD~number
 
-git reset --mixed bo staging
+git reset --mixed bo ra khoi staging giu nguyen woking directory
 git reset --sort giu staging
 git reset --hard xoa staging
+
+
+c2
