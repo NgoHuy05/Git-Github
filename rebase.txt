@@ -1,0 +1,8 @@
+git rebase gan giong git merge nhung rebase ko tron lan cac commit lai lan lon voi nhau 
+ma no lam phang lai lich su commit giup review code de hon
+
+dua cac commit cua nhanh_dau thanh nhung commit cuoi cua nhanh_dich
+
+git switch nhanh_dau
+git rebase nhanh_dich
+
