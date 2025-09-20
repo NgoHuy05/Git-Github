@@ -1,0 +1,10 @@
+git tag thuong dung de gan vao commit dung de danh dau 1 moc thoi gian quan trong 
+vi du nhu phien ban 
+v1 -> v2 -> v3 j j do
+
+git tag name-tag 
+git tag name-tag commit-hash
+git tag -a name-tag -m "message"
+git tag -a name-tag commit-hash -m "message"
+
+version2
