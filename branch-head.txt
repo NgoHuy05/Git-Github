@@ -1,0 +1,11 @@
+branch la 1 nhanh 
+
+git branch hien thi toan bo cac nhanh
+git branch nameBranch tao ra nhanh moi
+
+git switch nameBranch chuyen sang nhanh khac
+git checkout commit-hash chuyen ve commit cu se bi detached head giai phap la phai tao branch moi
+git checkout HEAD~number chuyen ve commit number trc doi
+
+git branch -d nameBranch: xoa nhanh da merge
+git branch -D nameBranch: xoa nhanh chua merge (ep xoa)
